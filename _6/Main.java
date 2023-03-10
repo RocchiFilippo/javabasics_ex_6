@@ -1,4 +1,4 @@
-package javabasics_ex_6._6;
+package _6;
 
 public class Main {
     // Don't forget to use comments to clear things up if you need them!
